@@ -10,12 +10,12 @@ step 8: At Page product chekhol-tetrad click on label object
 step 9: At Page product chekhol-tetrad click on button object
 step 10: At Page product chekhol-tetrad click on button object
 step 11: Add visual checkpoint at Page product chekhol-tetrad",High
-6,"step 1: Navigate to Page checkout shipping-address
-step 2: Add visual checkpoint at Page checkout shipping-address",Trivial
-4,"step 1: Navigate to Page cart
-step 2: Add visual checkpoint at Page cart",Trivial
 5,"step 1: Navigate to Page checkout payment
 step 2: Add visual checkpoint at Page checkout payment",Trivial
+4,"step 1: Navigate to Page cart
+step 2: Add visual checkpoint at Page cart",Trivial
+6,"step 1: Navigate to Page checkout shipping-address
+step 2: Add visual checkpoint at Page checkout shipping-address",Trivial
 7,"step 1: Navigate to Page checkout info
 step 2: Add visual checkpoint at Page checkout info",Trivial
 2,"step 1: Navigate to Page category iphone-7
