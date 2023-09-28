@@ -2,11 +2,11 @@
 <GlobalVariableEntities>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>''https://laipham-ai-shop.vercel.app''</initValue>
+        <initValue>'https://laipham-ai-shop.vercel.app'</initValue>
         <name>application_domain</name>
     </GlobalVariableEntity>
-    <defaultProfile>False</defaultProfile>
+    <defaultProfile>True</defaultProfile>
     <description></description>
-    <name>lph test</name>
+    <name>lph</name>
     <tag></tag>
 </GlobalVariableEntities>
