@@ -6,10 +6,6 @@
         "step 4: At Page category chekhly-na-iphone click on button object",
         "step 5: At Page category chekhly-na-iphone click on button object",
         "step 6: At Page category chekhly-na-iphone click on button object",
-        "step 7: At Page category chekhly-na-iphone click on hyperlink product chekhol tetrad --> navigate to Page product chekhol-tetrad",
-        "step 8: At Page product chekhol-tetrad click on label object",
-        "step 9: At Page product chekhol-tetrad click on button object",
-        "step 10: At Page product chekhol-tetrad click on button object",
-        "step 11: Add visual checkpoint at Page product chekhol-tetrad"
+        "step 7: Add visual checkpoint at Page category chekhly-na-iphone"
     ]
 }

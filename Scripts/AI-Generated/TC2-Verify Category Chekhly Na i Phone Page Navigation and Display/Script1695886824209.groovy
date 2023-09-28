@@ -1,7 +1,7 @@
-import internal.GlobalVariable as GlobalVariable
-import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import com.kms.katalon.core.model.FailureHandling
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
+import com.kms.katalon.core.model.FailureHandling
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
 'Initialize test session: Open browser and set view port'
 
@@ -85,65 +85,9 @@ WebUI.verifyMatch(WebUI.getUrl(), '.*/category/chekhly-na-iphone(?:#.*)?(?:\\?.*
 
 WebUI.enhancedClick(testObj)
 
-'step 7: At Page category chekhly-na-iphone click on hyperlink product chekhol tetrad --> navigate to Page product chekhol-tetrad'
+'step 7: Add visual checkpoint at Page category chekhly-na-iphone'
 
-testObj = findTestObject('Object Repository/Page_category_chekhly-na-iphone/hyperlink_product_chekhol_tetrad')
-
-WebUI.delay(3)
-
-WebUI.takeScreenshot()
-
-WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.verifyMatch(WebUI.getUrl(), '.*/category/chekhly-na-iphone(?:#.*)?(?:\\?.*)?$', true)
-
-WebUI.enhancedClick(testObj)
-
-'step 8: At Page product chekhol-tetrad click on label object'
-
-testObj = findTestObject('Object Repository/Page_product_chekhol-tetrad/label_object')
-
-WebUI.delay(3)
-
-WebUI.takeScreenshot()
-
-WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.verifyMatch(WebUI.getUrl(), '.*/product/chekhol-tetrad(?:#.*)?(?:\\?.*)?$', true)
-
-WebUI.enhancedClick(testObj)
-
-'step 9: At Page product chekhol-tetrad click on button object'
-
-testObj = findTestObject('Object Repository/Page_product_chekhol-tetrad/button_object')
-
-WebUI.delay(3)
-
-WebUI.takeScreenshot()
-
-WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.verifyMatch(WebUI.getUrl(), '.*/product/chekhol-tetrad(?:#.*)?(?:\\?.*)?$', true)
-
-WebUI.enhancedClick(testObj)
-
-'step 10: At Page product chekhol-tetrad click on button object'
-
-testObj = findTestObject('Object Repository/Page_product_chekhol-tetrad/button_object_1')
-
-WebUI.delay(3)
-
-WebUI.takeScreenshot()
-
-WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.verifyMatch(WebUI.getUrl(), '.*/product/chekhol-tetrad(?:#.*)?(?:\\?.*)?$', true)
-
-WebUI.enhancedClick(testObj)
-
-'step 11: Add visual checkpoint at Page product chekhol-tetrad'
-
-WebUI.takeFullPageScreenshotAsCheckpoint('TC1-Verify Product Page for Chekhly Na Iphone with Tetrad Design_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify Category Chekhly Na i Phone Page Navigation and Display_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
