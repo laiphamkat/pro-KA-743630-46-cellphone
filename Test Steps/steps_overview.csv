@@ -1,27 +1,22 @@
 Flow ID,Test Steps,Flow Priority
-2,"step 1: Navigate to Page category chekhly-na-iphone
-step 2: At Page category chekhly-na-iphone click on button object
-step 3: At Page category chekhly-na-iphone click on label object
-step 4: At Page category chekhly-na-iphone click on button object
-step 5: At Page category chekhly-na-iphone click on button object
-step 6: At Page category chekhly-na-iphone click on button object
-step 7: Add visual checkpoint at Page category chekhly-na-iphone",High
 1,"step 1: Navigate to Page product chekhol-tetrad
 step 2: At Page product chekhol-tetrad click on label object
 step 3: At Page product chekhol-tetrad click on button object
 step 4: At Page product chekhol-tetrad click on button object
-step 5: Add visual checkpoint at Page product chekhol-tetrad",Medium
-5,"step 1: Navigate to Page cart
-step 2: Add visual checkpoint at Page cart",Low
-6,"step 1: Navigate to Page checkout payment
+step 5: Add visual checkpoint at Page product chekhol-tetrad",High
+4,"step 1: Navigate to Page cart
+step 2: Add visual checkpoint at Page cart",Medium
+9,"step 1: Navigate to Page category chekhly-na-iphone
+step 2: Add visual checkpoint at Page category chekhly-na-iphone",Medium
+5,"step 1: Navigate to Page checkout payment
 step 2: Add visual checkpoint at Page checkout payment",Low
-3,"step 1: Navigate to Page home
-step 2: Add visual checkpoint at Page home",Trivial
-9,"step 1: Navigate to Page checkout shipping-address,
+2,"step 1: Navigate to Page home
+step 2: Add visual checkpoint at Page home",Low
+8,"step 1: Navigate to Page checkout shipping-address,
 step 2: Add visual checkpoint at Page checkout shipping-address,",Trivial
-8,"step 1: Navigate to Page checkout info
-step 2: Add visual checkpoint at Page checkout info",Trivial
-4,"step 1: Navigate to Page checkout
-step 2: Add visual checkpoint at Page checkout",Trivial
-7,"step 1: Navigate to Page checkout shipping-address
+6,"step 1: Navigate to Page checkout shipping-address
 step 2: Add visual checkpoint at Page checkout shipping-address",Trivial
+3,"step 1: Navigate to Page checkout
+step 2: Add visual checkpoint at Page checkout",Trivial
+7,"step 1: Navigate to Page checkout info
+step 2: Add visual checkpoint at Page checkout info",Trivial
