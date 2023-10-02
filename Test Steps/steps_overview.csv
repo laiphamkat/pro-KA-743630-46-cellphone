@@ -1,18 +1,90 @@
 Flow ID,Test Steps,Flow Priority
-3,"step 1: Navigate to Page category iphone-7
-step 2: At Page category iphone-7 click on button object
-step 3: At Page category iphone-7 click on label object
-step 4: At Page category iphone-7 click on button object
-step 5: Add visual checkpoint at Page category iphone-7",High
-1,"step 1: Navigate to Page home
-step 2: At Page home click on hyperlink cart --> navigate to Page cart
-step 3: Add visual checkpoint at Page cart",Medium
+3,"step 1: Navigate to Page product chekhol-tetrad
+step 2: At Page product chekhol-tetrad click on label object
+step 3: At Page product chekhol-tetrad click on button object
+step 4: At Page product chekhol-tetrad click on button object
+step 5: At Page product chekhol-tetrad click on hyperlink cart --> navigate to Page cart
+step 6: At Page cart click on button object --> navigate to Page checkout info
+step 7: At Page checkout info input on input object
+step 8: At Page checkout info click on input object
+step 9: At Page checkout info click on button object --> navigate to Page checkout shipping-address
+step 10: At Page checkout shipping-address click on span object
+step 11: At Page checkout shipping-address click on small object
+step 12: At Page checkout shipping-address click on span object
+step 13: At Page checkout shipping-address input on input object
+step 14: At Page checkout shipping-address input on input object
+step 15: At Page checkout shipping-address input on input object
+step 16: At Page checkout shipping-address input on input object
+step 17: At Page checkout shipping-address input on input object
+step 18: At Page checkout shipping-address input on input object
+step 19: At Page checkout shipping-address input on input object
+step 20: At Page checkout shipping-address click on select object
+step 21: At Page checkout shipping-address click on select object
+step 22: At Page checkout shipping-address input on input object
+step 23: At Page checkout shipping-address click on span object
+step 24: At Page checkout shipping-address input on input object
+step 25: At Page checkout shipping-address input on input object
+step 26: At Page checkout shipping-address input on input object
+step 27: At Page checkout shipping-address input on input object
+step 28: At Page checkout shipping-address input on input object
+step 29: At Page checkout shipping-address input on input object
+step 30: At Page checkout shipping-address input on input object
+step 31: At Page checkout shipping-address click on select object
+step 32: At Page checkout shipping-address click on select object
+step 33: At Page checkout shipping-address click on button object
+step 34: Add visual checkpoint at Page checkout shipping-address",High
 2,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink cart --> navigate to Page cart
+step 3: At Page cart click on button object --> navigate to Page checkout info
+step 4: At Page checkout info input on input object
+step 5: At Page checkout info click on input object
+step 6: At Page checkout info click on button object --> navigate to Page checkout shipping-address
+step 7: At Page checkout shipping-address click on span object
+step 8: At Page checkout shipping-address click on small object
+step 9: At Page checkout shipping-address click on span object
+step 10: At Page checkout shipping-address input on input object
+step 11: At Page checkout shipping-address input on input object
+step 12: At Page checkout shipping-address input on input object
+step 13: At Page checkout shipping-address input on input object
+step 14: At Page checkout shipping-address input on input object
+step 15: At Page checkout shipping-address input on input object
+step 16: At Page checkout shipping-address input on input object
+step 17: At Page checkout shipping-address click on select object
+step 18: At Page checkout shipping-address click on select object
+step 19: At Page checkout shipping-address input on input object
+step 20: At Page checkout shipping-address click on span object
+step 21: At Page checkout shipping-address input on input object
+step 22: At Page checkout shipping-address input on input object
+step 23: At Page checkout shipping-address input on input object
+step 24: At Page checkout shipping-address input on input object
+step 25: At Page checkout shipping-address input on input object
+step 26: At Page checkout shipping-address input on input object
+step 27: At Page checkout shipping-address input on input object
+step 28: At Page checkout shipping-address click on select object
+step 29: At Page checkout shipping-address click on select object
+step 30: At Page checkout shipping-address click on button object
+step 31: Add visual checkpoint at Page checkout shipping-address",High
+4,"step 1: Navigate to Page category chekhly-na-iphone
+step 2: At Page category chekhly-na-iphone click on hyperlink category iphone --> navigate to Page category iphone-6
+step 3: At Page category iphone-6 click on button object
+step 4: At Page category iphone-6 click on label object
+step 5: At Page category iphone-6 click on button object
+step 6: Add visual checkpoint at Page category iphone-6",Low
+5,"step 1: Navigate to Page category chekhly-na-iphone
+step 2: At Page category chekhly-na-iphone click on hyperlink category iphone --> navigate to Page category iphone-6
+step 3: At Page category iphone-6 click on hyperlink product chekhol explorer wanted --> navigate to Page product chekhol-explorer-wanted
+step 4: At Page product chekhol-explorer-wanted click on button object
+step 5: At Page product chekhol-explorer-wanted click on label object
+step 6: At Page product chekhol-explorer-wanted click on button object
+step 7: Add visual checkpoint at Page product chekhol-explorer-wanted",Low
+1,"step 1: Navigate to Page home
 step 2: At Page home click on button object
-step 3: At Page home click on button object
+step 3: At Page home click on label object
 step 4: At Page home click on button object
-step 5: At Page home click on label object
-step 6: At Page home click on button object
-step 7: Add visual checkpoint at Page home",Medium
-4,"step 1: Navigate to Page checkout shipping-address
-step 2: Add visual checkpoint at Page checkout shipping-address",Trivial
+step 5: Add visual checkpoint at Page home",Trivial
+7,"step 1: Navigate to Page checkout payment
+step 2: Add visual checkpoint at Page checkout payment",Trivial
+8,"step 1: Navigate to Page checkout shipping-address,
+step 2: Add visual checkpoint at Page checkout shipping-address,",Trivial
+6,"step 1: Navigate to Page checkout info
+step 2: Add visual checkpoint at Page checkout info",Trivial
