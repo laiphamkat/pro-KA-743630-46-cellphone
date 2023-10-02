@@ -1,22 +1,20 @@
 Flow ID,Test Steps,Flow Priority
-1,"step 1: Navigate to Page product chekhol-tetrad
-step 2: At Page product chekhol-tetrad click on label object
-step 3: At Page product chekhol-tetrad click on button object
-step 4: At Page product chekhol-tetrad click on button object
-step 5: Add visual checkpoint at Page product chekhol-tetrad",High
-4,"step 1: Navigate to Page cart
-step 2: Add visual checkpoint at Page cart",Medium
-9,"step 1: Navigate to Page category chekhly-na-iphone
-step 2: Add visual checkpoint at Page category chekhly-na-iphone",Medium
-5,"step 1: Navigate to Page checkout payment
-step 2: Add visual checkpoint at Page checkout payment",Low
+3,"step 1: Navigate to Page category iphone-7
+step 2: At Page category iphone-7 click on button object
+step 3: At Page category iphone-7 click on label object
+step 4: At Page category iphone-7 click on button object
+step 5: Add visual checkpoint at Page category iphone-7",High
 2,"step 1: Navigate to Page home
-step 2: Add visual checkpoint at Page home",Low
-8,"step 1: Navigate to Page checkout shipping-address,
-step 2: Add visual checkpoint at Page checkout shipping-address,",Trivial
-6,"step 1: Navigate to Page checkout shipping-address
-step 2: Add visual checkpoint at Page checkout shipping-address",Trivial
-3,"step 1: Navigate to Page checkout
-step 2: Add visual checkpoint at Page checkout",Trivial
-7,"step 1: Navigate to Page checkout info
-step 2: Add visual checkpoint at Page checkout info",Trivial
+step 2: At Page home click on button object
+step 3: At Page home click on button object
+step 4: At Page home click on button object
+step 5: At Page home click on label object
+step 6: At Page home click on button object
+step 7: Add visual checkpoint at Page home",High
+1,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink cart --> navigate to Page cart
+step 3: Add visual checkpoint at Page cart",Medium
+5,"step 1: Navigate to Page thank-you ee693ed6-e3b1-4f57-a1b5-b13df78fe10
+step 2: Add visual checkpoint at Page thank-you ee693ed6-e3b1-4f57-a1b5-b13df78fe10",Low
+4,"step 1: Navigate to Page checkout shipping-address
+step 2: Add visual checkpoint at Page checkout shipping-address",Low
