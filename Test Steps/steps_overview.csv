@@ -4,17 +4,15 @@ step 2: At Page category iphone-7 click on button object
 step 3: At Page category iphone-7 click on label object
 step 4: At Page category iphone-7 click on button object
 step 5: Add visual checkpoint at Page category iphone-7",High
+1,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink cart --> navigate to Page cart
+step 3: Add visual checkpoint at Page cart",Medium
 2,"step 1: Navigate to Page home
 step 2: At Page home click on button object
 step 3: At Page home click on button object
 step 4: At Page home click on button object
 step 5: At Page home click on label object
 step 6: At Page home click on button object
-step 7: Add visual checkpoint at Page home",High
-1,"step 1: Navigate to Page home
-step 2: At Page home click on hyperlink cart --> navigate to Page cart
-step 3: Add visual checkpoint at Page cart",Medium
-5,"step 1: Navigate to Page thank-you ee693ed6-e3b1-4f57-a1b5-b13df78fe10
-step 2: Add visual checkpoint at Page thank-you ee693ed6-e3b1-4f57-a1b5-b13df78fe10",Low
+step 7: Add visual checkpoint at Page home",Medium
 4,"step 1: Navigate to Page checkout shipping-address
-step 2: Add visual checkpoint at Page checkout shipping-address",Low
+step 2: Add visual checkpoint at Page checkout shipping-address",Trivial
